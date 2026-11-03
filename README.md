@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34259718/README.md)
-# Salem Cybersecurity Company – Relational Database (SQL)
+# Salem Cybersecurity Company – Relational Database (MySQL)
 
 A relational database designed for a fictional cybersecurity company, **Salem**. It stores the company's organizational structure (management, departments, teams, employees, payroll), its **clients and contracts**, and the full **vulnerability lifecycle**: from discovering a vulnerability at a client to recording how it was fixed and by which team.
 
